@@ -7,3 +7,4 @@
 --platform=linux/amd64 docker.io/bitnami/zookeeper:3.8
 --platform=linux/amd64 docker.io/bitnami/kafka:3.4
 --platform=linux/amd64 provectuslabs/kafka-ui:latest
+--platform=linux/amd64 davegill/wrf-coop:fifteenthtry
