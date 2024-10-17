@@ -5,14 +5,15 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #https://www.cnblogs.com/davidchild/p/17295037.html
 #--platform=linux/amd64 docker.io/bitnami/zookeeper:3.8
---platform=linux/amd64 docker.io/mysql:8.0
---platform=linux/amd64 docker.io/elasticsearch:8.15.2
---platform=linux/amd64 docker.io/redis:6.0.8
---platform=linux/amd64 docker.io/nacos/nacos-server:v2.2.3
---platform=linux/amd64 docker.io/seataio/seata-server:1.7.1
---platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/72crm/xxl-job:2.1.2
---platform=linux/amd64 docker.io/apache/rocketmq:4.9.4
---platform=linux/amd64 docker.io/nginx:1.27.2
+#--platform=linux/amd64 docker.io/mysql:8.0
+#--platform=linux/amd64 docker.io/elasticsearch:8.15.2
+#--platform=linux/amd64 docker.io/redis:6.0.8
+#--platform=linux/amd64 docker.io/nacos/nacos-server:v2.2.3
+#--platform=linux/amd64 docker.io/seataio/seata-server:1.7.1
+#--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/72crm/xxl-job:2.1.2
+#--platform=linux/amd64 docker.io/apache/rocketmq:4.9.4
+#--platform=linux/amd64 docker.io/nginx:1.27.2
 #--platform=linux/amd64 provectuslabs/kafka-ui:latest
 #--platform=linux/amd64 davegill/wrf-coop:fifteenthtry
 #--platform=linux/amd64 ghcr.io/coqui-ai/tts-cpu:latest
+--platform=linux/amd64 docker.io/centos:centos7.2.1511
