@@ -19,4 +19,5 @@
 #--platform=linux/amd64 docker.io/centos:centos7.2.1511
 #--platform=linux/amd64 docker.io/openjdk:8
 #--platform=linux/amd64 docker.io/mycroftai/mimic3:0.2.4
---platform=linux/amd64 docker.io/syq163/emoti-voice:latest
+#--platform=linux/amd64 docker.io/syq163/emoti-voice:latest
+--platform=linux/amd64 docker.io/elasticsearch:7.17.7
