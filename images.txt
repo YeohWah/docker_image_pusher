@@ -21,8 +21,11 @@
 #--platform=linux/amd64 docker.io/mycroftai/mimic3:0.2.4
 #--platform=linux/amd64 docker.io/syq163/emoti-voice:latest
 #--platform=linux/amd64 docker.io/elasticsearch:7.17.7
---platform=linux/amd64 docker.io/jumpserver/core:v4.3.1-ce
---platform=linux/amd64 docker.io/jumpserver/koko:v4.3.1-ce
---platform=linux/amd64 docker.io/jumpserver/lion:v4.3.1-ce
---platform=linux/amd64 docker.io/jumpserver/chen:v4.3.1-ce
---platform=linux/amd64 docker.io/jumpserver/web:v4.3.1-ce
+#--platform=linux/amd64 docker.io/jumpserver/core:v4.3.1-ce
+#--platform=linux/amd64 docker.io/jumpserver/koko:v4.3.1-ce
+#--platform=linux/amd64 docker.io/jumpserver/lion:v4.3.1-ce
+#--platform=linux/amd64 docker.io/jumpserver/chen:v4.3.1-ce
+#--platform=linux/amd64 docker.io/jumpserver/web:v4.3.1-ce
+#--platform=linux/amd64 quay.io/coreos/etcd:v3.5.0
+--platform=linux/amd64 docker.io/minio/minio:RELEASE.2022-03-17T06-34-49Z
+--platform=linux/amd64 docker.io/milvusdb/milvus:v2.2.2
