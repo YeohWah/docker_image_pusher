@@ -31,4 +31,6 @@
 #--platform=linux/amd64 quay.io/coreos/etcd:v3.5.0
 #--platform=linux/amd64 docker.io/minio/minio:RELEASE.2022-03-17T06-34-49Z
 #--platform=linux/amd64 docker.io/milvusdb/milvus:v2.2.2
---platform=linux/amd64 docker.io/python:3.8-slim-buster
+#--platform=linux/amd64 docker.io/python:3.8-slim-buster
+--platform=linux/amd64 docker.io/wordpress:6.7.1-php8.3-apache
+--platform=linux/amd64 docker.io/mysql:5.7
