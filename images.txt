@@ -7,7 +7,7 @@
 #--platform=linux/amd64 docker.io/bitnami/zookeeper:3.8
 #--platform=linux/amd64 docker.io/mysql:8.0
 #--platform=linux/amd64 docker.io/elasticsearch:8.5.3
---platform=linux/amd64 docker.io/redis:7.4.1
+#--platform=linux/amd64 docker.io/redis:7.4.1
 #--platform=linux/amd64 docker.io/nacos/nacos-server:v2.2.3
 #--platform=linux/amd64 docker.io/seataio/seata-server:1.7.1
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/72crm/xxl-job:2.1.2
@@ -34,3 +34,4 @@
 #--platform=linux/amd64 docker.io/python:3.8-slim-buster
 #--platform=linux/amd64 docker.io/wordpress:6.7.1-php8.3-apache
 #--platform=linux/amd64 docker.io/mysql:5.7
+--platform=linux/amd64 docker.io/mzz2017/v2raya:v2.2.6.3
