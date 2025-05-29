@@ -34,4 +34,5 @@
 #--platform=linux/amd64 docker.io/python:3.8-slim-buster
 #--platform=linux/amd64 docker.io/wordpress:6.7.1-php8.3-apache
 #--platform=linux/amd64 docker.io/mysql:5.7
---platform=linux/amd64 docker.io/mzz2017/v2raya:v2.2.6.3
+#--platform=linux/amd64 docker.io/mzz2017/v2raya:v2.2.6.3
+--platform=linux/amd64 docker.io/ytt4477/wps_verification:latest
