@@ -35,6 +35,9 @@
 #--platform=linux/amd64 docker.io/wordpress:6.7.1-php8.3-apache
 #--platform=linux/amd64 docker.io/mysql:5.7
 #--platform=linux/amd64 docker.io/mzz2017/v2raya:v2.2.6.3
---platform=linux/amd64 docker.io/milvusdb/milvus:v2.6.0
---platform=linux/amd64 docker.io/milvusdb/milvus:v2.6.0
---platform=linux/amd64 docker.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
+#--platform=linux/amd64 docker.io/milvusdb/milvus:v2.6.0
+#--platform=linux/amd64 docker.io/milvusdb/milvus:v2.6.0
+#--platform=linux/amd64 docker.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
+--platform=linux/amd64 docker.io/apache/rocketmq:5.2.0
+--platform=linux/amd64 docker.io/osmiling/xxl-job:2.4.1
+--platform=linux/amd64 docker.io/nacos/nacos-server:v2.3.2
