@@ -38,6 +38,7 @@
 #--platform=linux/amd64 docker.io/milvusdb/milvus:v2.6.0
 #--platform=linux/amd64 docker.io/milvusdb/milvus:v2.6.0
 #--platform=linux/amd64 docker.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
---platform=linux/amd64 docker.io/apache/rocketmq:5.2.0
---platform=linux/amd64 docker.io/osmiling/xxl-job:2.4.1
---platform=linux/amd64 docker.io/nacos/nacos-server:v2.3.2
+#--platform=linux/amd64 docker.io/apache/rocketmq:5.2.0
+#--platform=linux/amd64 docker.io/osmiling/xxl-job:2.4.1
+#--platform=linux/amd64 docker.io/nacos/nacos-server:v2.3.2
+--platform=linux/amd64 docker.io/python:3.10
