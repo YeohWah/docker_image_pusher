@@ -41,4 +41,5 @@
 #--platform=linux/amd64 docker.io/apache/rocketmq:5.2.0
 #--platform=linux/amd64 docker.io/osmiling/xxl-job:2.4.1
 #--platform=linux/amd64 docker.io/nacos/nacos-server:v2.3.2
---platform=linux/amd64 docker.io/python:3.10-slim
+#--platform=linux/amd64 docker.io/python:3.10-slim
+--platform=linux/amd64 docker.io/eclipse-temurin:21-jre
