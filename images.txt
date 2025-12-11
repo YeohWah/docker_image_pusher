@@ -48,4 +48,5 @@
 #--platform=linux/amd64 docker.io/dimitri/pgloader:latest
 #--platform=linux/amd64 docker.io/atmoz/sftp:alpine
 #--platform=linux/amd64 docker.io/ubuntu:16.04
---platform=linux/amd64 docker.io/ubuntu:latest
+#--platform=linux/amd64 docker.io/ubuntu:latest
+--platform=linux/amd64 docker.io/snowdreamtech/frps:latest
