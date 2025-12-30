@@ -50,4 +50,5 @@
 #--platform=linux/amd64 docker.io/ubuntu:16.04
 #--platform=linux/amd64 docker.io/ubuntu:latest
 #--platform=linux/amd64 docker.io/snowdreamtech/frps:latest
---platform=linux/amd64 docker.io/ollama/ollama:0.13.5
+#--platform=linux/amd64 docker.io/ollama/ollama:0.13.5
+--platform=linux/amd64 docker.io/mzz2017/v2raya:v2.2.7.4
