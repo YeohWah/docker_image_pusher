@@ -53,4 +53,5 @@
 #--platform=linux/amd64 docker.io/ollama/ollama:0.13.5
 #--platform=linux/amd64 docker.io/mzz2017/v2raya:v2.2.7.4
 #--platform=linux/amd64 docker.io/jrottenberg/ffmpeg:6.1.3-alpine320
---platform=linux/amd64 docker.io/ultralytics/ultralytics:latest
+#--platform=linux/amd64 docker.io/ultralytics/ultralytics:latest
+platform=linux/amd64 docker.io/vllm/vllm-openai:v0.16.0-cu130
