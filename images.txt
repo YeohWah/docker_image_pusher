@@ -57,4 +57,5 @@
 #--platform=linux/amd64 docker.io/vllm/vllm-openai:v0.16.0-cu130
 #--platform=linux/amd64 docker.io/vllm/vllm-openai:latest
 #--platform=linux/amd64 docker.io/nvidia/cuda:13.1.1-devel-ubuntu22.04
---platform=linux/amd64 docker.io/nvidia/cuda:13.0.1-devel-ubuntu22.04
+#--platform=linux/amd64 docker.io/nvidia/cuda:13.0.1-devel-ubuntu22.04
+--platform=linux/amd64 docker.io/wantcat/trendradar:6.5.0
